@@ -17,6 +17,10 @@ h3{
     color: black;
     text-align:center;
 }
+h4{
+    color: black;
+    text-align:center;
+}
 p{
     display: block;
     margin-left: auto;
@@ -36,6 +40,9 @@ h2:hover{
 }
 h3:hover{
     color:coral;
+}
+h4:hover{
+    color:rgb(255, 199, 115);
 }
 div.a {
     line-height: 1.6;
