@@ -1,0 +1,44 @@
+body{
+  background-color: linen; 
+}
+body:hover{
+    background-color:lightyellow;
+}
+
+h1{
+    color: maroon;
+    text-align:center;
+}
+h2{
+    color: maroon;
+    text-align:center;
+}
+h3{
+    color: maroon;
+    text-align:center;
+}
+p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    color: maroon;
+}
+p:hover{
+    color:lightpink;
+}
+h1:hover{
+    color:lavender;
+}
+h2:hover{
+    color:lightgreen;
+}
+h3:hover{
+    color:rgb(254, 255, 177);
+}
+a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
