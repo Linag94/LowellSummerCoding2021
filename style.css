@@ -50,3 +50,6 @@ div.a {
   div.b {
     line-height: 1.6;
   }
+  figcaption:hover{
+color: cornflowerblue;
+  }
